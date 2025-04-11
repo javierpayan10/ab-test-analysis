@@ -19,7 +19,8 @@ Determinar si el grupo experimental (Grupo B) generó un tamaño de pedido prome
 - A partir del 18 de agosto, el Grupo B mostró un aumento significativo en el tamaño promedio de pedido acumulado.
 - El Grupo A mantuvo un comportamiento más estable y progresivo.
 - Se detectaron algunos valores atípicos en los precios de los pedidos, lo que sugiere la necesidad de un análisis más profundo o limpieza de datos.
-- Se recomienda aplicar pruebas estadísticas para validar la diferencia entre los grupos.
+- Las pruebas estadísticas no encontraron diferencias significativas en las métricas clave (tasa de conversión y tamaño promedio de pedido).
+Continuar la prueba podría no ser eficiente dado que los datos actuales sugieren que las estrategias tienen un impacto similar.
 
 ## 📁 Archivos incluidos
 
